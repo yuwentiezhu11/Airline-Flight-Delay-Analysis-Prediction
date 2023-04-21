@@ -1,5 +1,5 @@
 # Airline-Flight-Delay-Analysis-Prediction
-This is our data mining assignment, including the models and the predictor program.
+This is our data mining assignment, including the code and the predictor program.
 Contributiors: 
 ZHU Xun(3036034318)
 QUE Rongjun(3035970333)
