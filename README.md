@@ -1,5 +1,5 @@
 # Airline Flight Delay Predictor 
-
+## STep 0 Use jupyter notebook to run the code for as1 to data mining
 ## Step 1 Start the python-flask backend
 
 ```bash
@@ -26,3 +26,4 @@ npm run start
 
 Visit [localhost:3000](localhost:3000)
 
+## Airline Flight Delay Predictor 
