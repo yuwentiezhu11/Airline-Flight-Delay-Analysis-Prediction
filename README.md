@@ -1,8 +1,28 @@
-# Airline-Flight-Delay-Analysis-Prediction
-This is our data mining assignment, including the python code and the predictor program, which runs in jupyter notebook and conda environment. 
-Contributiors: 
-ZHU Xun(3036034318)
-QUE Rongjun(3035970333)
-XU Ruisheng(3035970656)
-ZHANG Longhui(3035969970)
-Links: https://github.com/yuwentiezhu11/Airline-Flight-Delay-Analysis-Prediction
+# Airline Flight Delay Predictor 
+
+## Step 1 Start the python-flask backend
+
+```bash
+cd predictor
+python server.py
+```
+
+## Step 2 Start the React frontend
+
+Install the necessary packages
+
+```bash
+cd client
+npm install
+```
+
+Start the frontend
+
+```bash
+npm run start
+```
+
+## Step 3 Open the browser
+
+Visit [localhost:3000](localhost:3000)
+
