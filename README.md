@@ -1,5 +1,11 @@
 # Airline Flight Delay Predictor 
 ## STep 0 Use jupyter notebook to run the code for as1 to data mining
+
+This is the code for assignment 1. We use jupyter notebook and conda environ for our model implementation and evaluated dataset.
+
+
+
+The following is our prediction system, which is developed for user interface. Here is how to using it.
 ## Step 1 Start the python-flask backend
 
 ```bash
